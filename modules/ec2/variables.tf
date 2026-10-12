@@ -14,5 +14,5 @@ variable "instance_type" {
 variable "server_name" {
   description = "this is for server name"
   type = string
-  default = "web_server_1"
+  default = "web_server_5"
 }
